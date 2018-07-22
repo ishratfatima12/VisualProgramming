@@ -1,0 +1,40 @@
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\bin\Debug\Coffee Magn Sys.exe
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\bin\Debug\Coffee Magn Sys.pdb
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form1.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form2.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form3.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form4.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form5.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form6.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Properties.Resources.resources
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.csproj.GenerateResource.Cache
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.exe
+c:\users\d.c.s\documents\visual studio 2010\Projects\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.pdb
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\bin\Debug\Coffee Magn Sys.exe
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\bin\Debug\Coffee Magn Sys.pdb
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.csprojAssemblyReference.cache
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form1.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form2.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form3.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form4.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form5.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form6.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Properties.Resources.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.csproj.GenerateResource.cache
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.csproj.CoreCompileInputs.cache
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.exe
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.pdb
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form7.resources
+F:\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form8.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.exe
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.pdb
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form1.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form2.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form3.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form4.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form5.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form6.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form7.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Form8.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee_Magn_Sys.Properties.Resources.resources
+C:\Users\Sulman\Documents\Coffee Management System\Coffee Magn Sys\Coffee Magn Sys\obj\x86\Debug\Coffee Magn Sys.csproj.GenerateResource.Cache

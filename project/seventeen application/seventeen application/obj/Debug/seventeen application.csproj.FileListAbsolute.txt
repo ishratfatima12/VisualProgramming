@@ -1,0 +1,13 @@
+C:\Users\se\source\repos\seventeen application\seventeen application\bin\Debug\seventeen application.exe.config
+C:\Users\se\source\repos\seventeen application\seventeen application\bin\Debug\seventeen application.exe
+C:\Users\se\source\repos\seventeen application\seventeen application\bin\Debug\seventeen application.pdb
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen application.csprojResolveAssemblyReference.cache
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen_application.Form1.resources
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen_application.Properties.Resources.resources
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen application.csproj.GenerateResource.Cache
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen application.csproj.CoreCompileInputs.cache
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen application.exe
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen application.pdb
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen_application.Form2.resources
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen_application.Form3.resources
+C:\Users\se\source\repos\seventeen application\seventeen application\obj\Debug\seventeen_application.Form4.resources

@@ -1,0 +1,11 @@
+C:\Users\se\source\repos\dice game\dice game\bin\Debug\dice game.exe.config
+C:\Users\se\source\repos\dice game\dice game\bin\Debug\dice game.exe
+C:\Users\se\source\repos\dice game\dice game\bin\Debug\dice game.pdb
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice game.csprojResolveAssemblyReference.cache
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice_game.Form1.resources
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice_game.Form2.resources
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice_game.Properties.Resources.resources
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice game.csproj.GenerateResource.Cache
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice game.csproj.CoreCompileInputs.cache
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice game.exe
+C:\Users\se\source\repos\dice game\dice game\obj\Debug\dice game.pdb

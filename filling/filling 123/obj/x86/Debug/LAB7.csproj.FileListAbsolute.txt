@@ -1,0 +1,32 @@
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\bin\Debug\LAB7.exe
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\bin\Debug\LAB7.pdb
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.Form1.resources
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.Form2.resources
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.Properties.Resources.resources
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.csproj.GenerateResource.Cache
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.exe
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.pdb
+C:\Users\Lab 2\AppData\Local\Temporary Projects\LAB7\obj\x86\Debug\LAB7.Form3.resources
+C:\Users\Lab 2\Documents\Visual Studio 2010\Projects\LAB7\LAB7\obj\x86\Debug\LAB7.exe
+H:\LAB7\LAB7\obj\x86\Debug\LAB7.exe
+H:\LAB7\LAB7\bin\Debug\LAB7.exe
+H:\LAB7\LAB7\bin\Debug\LAB7.pdb
+H:\LAB7\LAB7\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\LAB7\LAB7\obj\x86\Debug\LAB7.Form1.resources
+H:\LAB7\LAB7\obj\x86\Debug\LAB7.Form2.resources
+H:\LAB7\LAB7\obj\x86\Debug\LAB7.Form3.resources
+H:\LAB7\LAB7\obj\x86\Debug\LAB7.Properties.Resources.resources
+H:\LAB7\LAB7\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\LAB7\LAB7\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\LAB7\LAB7\obj\x86\Debug\LAB7.pdb
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\bin\Debug\LAB7.exe
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\bin\Debug\LAB7.pdb
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.Form1.resources
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.Form2.resources
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.Form3.resources
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.Properties.Resources.resources
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.csproj.GenerateResource.cache
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.csproj.CoreCompileInputs.cache
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.exe
+C:\Users\Sulman\Dropbox\SK_NS\Assignment\LAB7\LAB7\obj\x86\Debug\LAB7.pdb
